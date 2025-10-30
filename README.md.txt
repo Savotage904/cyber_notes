@@ -25,4 +25,4 @@ To openly share my progress while building a solid foundation in IT security.
 - [OverTheWire](https://overthewire.org/)
 
 ---
-*Stay curious and keep hacking ethically!*
+Stay curious and keep hacking ethically!
